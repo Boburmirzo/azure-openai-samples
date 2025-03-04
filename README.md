@@ -44,6 +44,9 @@ As technologies changes very fast, we endevour to keep this repository updated a
 - **Azure OpenAI Semantic Search Demo | Document Upload**
    - https://github.com/MaheshSQL/openai-vector-search-demo
 
+- **Neon Serverless Postgres + OpenAI**
+   - https://github.com/neondatabase-labs/azure-tenant-ai-chat
+
 - **Redis + OpenAI**
    - https://github.com/louis-li/pdfGPT
 
